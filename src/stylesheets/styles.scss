@@ -1,1 +1,9 @@
-// Add your styles here
+// Load CSS Reset from NPM
+@import "~normalize.css";
+@import "../stylesheets/variables.scss";
+@import "../stylesheets/fonts.scss";
+@import "../stylesheets/document.scss";
+@import "../stylesheets/button.scss";
+@import "../stylesheets/page-index.scss";
+@import "../stylesheets/product-card.scss";
+@import "../stylesheets/product-list.scss";
